@@ -1,2 +1,2 @@
 # hackday_rectangles
-![rectangles](rectangles.png)
+![rectangles](Rectangles.png)
